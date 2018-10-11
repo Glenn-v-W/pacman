@@ -1,0 +1,26 @@
+﻿  GameModeComponent.cpp
+  GhostComponent.cpp
+  LivesComponent.cpp
+  PacmanComponent.cpp
+  ScoreComponent.cpp
+  InputManager.cpp
+  Minigin.cpp
+     Creating library G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\x64\Release\Minigin.lib and object G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\x64\Release\Minigin.exp
+  Generating code
+  41 of 1237 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Minigin.vcxproj -> G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\x64\Release\Minigin.exe
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_image\lib\x64\libjpeg-9.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_image\lib\x64\libpng16-16.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_image\lib\x64\libtiff-5.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_image\lib\x64\libwebp-7.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_image\lib\x64\SDL2_image.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_image\lib\x64\zlib1.dll
+  6 File(s) copied
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_ttf\lib\x64\libfreetype-6.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\Exam_Assignment\Minigin\3rdParty\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  2 File(s) copied

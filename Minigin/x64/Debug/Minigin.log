@@ -1,0 +1,42 @@
+﻿  MiniginPCH.cpp
+  Texture2D.cpp
+  SceneManager.cpp
+  Scene.cpp
+  GameObject.cpp
+  ResourceManager.cpp
+  PacmanComponent.cpp
+  Drawer.cpp
+  Minigin.cpp
+  Log.cpp
+  InputManager.cpp
+  Font.cpp
+  TransformComponent.cpp
+  TextComponent.cpp
+  ScoreComponent.cpp
+  MenuComponent.cpp
+  LivesComponent.cpp
+  GridComponent.cpp
+  GhostComponent.cpp
+  GameModeComponent.cpp
+  DrawComponent.cpp
+  Generating Code...
+  Compiling...
+  FPSComponent.cpp
+  BaseComponent.cpp
+  BinaryWriter.cpp
+  BinaryReader.cpp
+  Generating Code...
+     Creating library G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\x64\Debug\Minigin.lib and object G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\x64\Debug\Minigin.exp
+  Minigin.vcxproj -> G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\x64\Debug\Minigin.exe
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_image\lib\x64\libjpeg-9.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_image\lib\x64\libpng16-16.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_image\lib\x64\libtiff-5.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_image\lib\x64\libwebp-7.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_image\lib\x64\SDL2_image.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_image\lib\x64\zlib1.dll
+  6 File(s) copied
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_ttf\lib\x64\libfreetype-6.dll
+  G:\Desktop\DAE\Programming 4\Exam_Assignment\2DAE1_Exam_vanWaesberghe_Glenn\Source Code\Minigin\3rdParty\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  2 File(s) copied
